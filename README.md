@@ -3,7 +3,7 @@
 <div align="center"> 🚀 Welcome to my git repo :PDFSignAndAnnotatewithHandGestures:</div>
 
 ###  PDF Sign and Annotate with Hand Gestures
-<img src="https://github.com/himalayaashish/PDF-AIR-CANVAS/blob/main/screensort/Screenshot%202024-06-25%20at%2011.58.39%E2%80%AFAM.png?raw=true" alt="Lumbar Detection" width="500"/>
+<img src="https://github.com/himalayaashish/PDF-AIR-CANVAS/blob/main/work-7.jpg?raw=true" alt="Lumbar Detection" width="500"/>
 
 
 #### Chat with Your PDF Using LangChain and OpenAI
@@ -17,7 +17,7 @@
 - **Clear Drawing**: Clear annotations with a gesture.
 
 ### Installation
-
+<img src="https://github.com/himalayaashish/PDF-AIR-CANVAS/blob/main/screensort/Screenshot%202024-06-25%20at%2011.58.39%E2%80%AFAM.png?raw=true" alt="Lumbar Detection" width="500"/>
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/your-repository/pdf-sign-annotate.git
